@@ -1,0 +1,196 @@
+/* // Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+
+
+ .navbar-toggler span{
+     color: white;
+ }   
+.navbar-toggler:focus{
+    outline: none;
+}
+/* navbar top part  */
+.navbar-nav {
+	text-align: center;
+	background: rebeccapurple;
+}
+.nav-link{
+    display:block;
+}
+
+.navbar-nav .nav-link{
+    display: inline-block;
+    padding: 5px 20px;
+    border: 2px solid rgba(255, 255, 255, 0);
+    transition: .9s;
+    border-radius: 4px;
+}
+.navbar-nav .nav-link:hover{
+    border: 2px solid white;
+}
+
+/* navbar top part  */
+
+
+ /* bg slider  */
+    .middle-img-text h4 {
+        font-size: 26px;
+        line-height: 28px;
+    }
+
+    .middle-img-text h3 {
+        font-size: 37px;
+        line-height: 38px;
+    }
+
+    .middle-img-text p {
+        padding: 10px 8px 10px 11px;
+    }
+.bgimg-overlay {
+	padding:100px 0px;
+}
+ /* bg slider  */
+
+
+/* custom slider  */
+.custom-slider-item p{
+    padding: 0px 20px;
+}
+/* custom slider  */
+
+
+
+/* relization part  */
+.rralization-title h3 {
+	font-size: 27px;
+	line-height: 28px;
+}
+
+.left-text h3 {
+	font-size: 32px;
+	text-align: center;
+	line-height: 33px;
+}
+
+.left-text p {
+	font-weight: 600;
+	font-size: 12px;
+	color: #b4b1af;
+	text-align: center;
+}
+
+#realizedwtext {
+	margin-top: -6px;
+}
+/* relization part  */
+
+
+/* latest project part  */
+.olpsliderbttn button {
+	padding: 7px 14px;
+	font-size: 10px;
+	margin-top: 4px;
+}
+/* latest project part  */
+
+
+/* waxom video part  */
+.video-test h3 {
+	font-weight: 700;
+	font-size: 19px;
+}
+
+.videobg-overlay {
+	padding: 70px 0px 30px 0px;
+	background: hsla(0, 0%, 0%, 0.6);
+}
+/* waxom video part  */
+
+
+/* left-img-efm */
+.left-img-efm{
+    text-align: center;
+}
+.left-img-efm img{
+    width: 70%;
+    
+}
+.right-text-efm p{
+    text-align: center;
+}
+.right-text-efm h3 {
+	font-size: 32px;
+    text-align: center;
+    line-height: 30px;
+}
+.rtu-text {
+	margin-left:0px;
+}
+
+
+/* left-img-efm */
+
+
+/* counter up part  */
+.offset-1 {
+	margin-left:0px;
+}
+
+.counter-up-item {
+	margin-bottom: 24px;
+}
+/* counter up part  */
+
+
+/* barbarslider item  */
+.brand-slider-item{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/* barbarslider item  */
+
+
+/* footer part  */
+.footer-logo img {
+	margin-left:11px;
+}
+
+.footer-logo {
+	justify-content: center;
+}
+
+.footer-item{
+    margin-top: 25px;
+}
+
+.footer-text img{
+    width: 100%;
+}
+/* footer part  */
+
+/* little footer  */
+.fooleft p{
+    font-size: 11px;
+    text-align: center;
+}
+.fooright p{
+    font-size: 11px;
+    text-align: center;
+}
+/* little footer  */
+
+
+
+}
+
+/* // Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) and (max-width: 767.98px) { ... }
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) and (max-width: 991.98px) { ... }
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) and (max-width: 1199.98px) { ... }
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { ... } */
